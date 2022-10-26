@@ -1,0 +1,22 @@
+[
+  {"name": "1",
+  "description": "Número 1"
+  "image_url": "https://raw.githubusercontent.com/DiegoDFS03/Desarrollo-de-Interfaces/main/API-REST/1.jpg"
+  }
+  {"name": "2",
+  "description": "Número 2"
+  "image_url": "https://raw.githubusercontent.com/DiegoDFS03/Desarrollo-de-Interfaces/main/API-REST/2.jpg"
+  }
+  {"name": "3",
+  "description": "Número 3"
+  "image_url": "https://raw.githubusercontent.com/DiegoDFS03/Desarrollo-de-Interfaces/main/API-REST/3.jpg"
+  }
+  {"name": "4",
+  "description": "Número 4"
+  "image_url": "https://raw.githubusercontent.com/DiegoDFS03/Desarrollo-de-Interfaces/main/API-REST/4.jpg"
+  }
+  {"name": "5",
+  "description": "Número 5"
+  "image_url": "https://raw.githubusercontent.com/DiegoDFS03/Desarrollo-de-Interfaces/main/API-REST/5.jpg"
+  }
+]
