@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.614"
+        app:layout_constraintStart_toEndOf="@+id/linearLayout2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/final_fantasy_xvi_20201124143731_1" />
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/dead_island_2_2022824983593_1" />
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/blue_protocol_2020112717433823_1" />
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="151dp"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/beyond_good_evil_2_2018313125549_1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="28dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageView
+            android:id="@+id/imageView19"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/the_legend_of_zelda_tears_of_the_kingdom_202291410341410_1" />
+
+        <ImageView
+            android:id="@+id/imageView18"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/star_citizen_201837182459_1" />
+
+        <ImageView
+            android:id="@+id/imageView17"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/metroid_prime_4_2018313125912_1" />
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/granblue_fantasy_relink_20213412263117_1" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
